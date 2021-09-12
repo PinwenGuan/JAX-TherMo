@@ -1,9 +1,6 @@
 # JAX-TherMo
 A demo code for implementation of differentiable thermodynamic modeling in [JAX](https://github.com/google/jax).
 
-## Author
-This software was written by Pin-Wen Guan who was advised by Prof. Venkat Viswanathan.
-
 ## Reference
 
 Please cite the reference below if you use this code in your work:<br>
