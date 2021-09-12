@@ -1,11 +1,17 @@
 # JAX-TherMo
-A demo code for implementation of differentiable thermodynamic modeling in [JAX](https://github.com/google/jax).
+A demo code for implementation of differentiable thermodynamic modeling in [JAX](https://github.com/google/jax), taking the Cu-Rh system as an example.
 
 ## Install 
 
 No installation is needed. Just download the files in one folder.<br>
 
 [JAX](https://github.com/google/jax) should be installed first.<br>
+
+## Run the code
+
+Use train.py to train the model.<br>
+
+Use pd.py to calculate the phase diagram based on the trained model.<br>
 
 ## Results
 
