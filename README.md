@@ -3,7 +3,7 @@ A demo code for implementation of differentiable thermodynamic modeling in [JAX]
 
 ## Install 
 
-No installation is needed. Just download the files in one folder.<br>
+No installation for this code is needed. Just download the files in one folder.<br>
 
 [JAX](https://github.com/google/jax) should be installed first.<br>
 
