@@ -24,10 +24,16 @@ Please cite the reference below if you use this code in your work:<br>
 Guan, Pin-Wen. "Differentiable thermodynamic modeling." arXiv preprint arXiv:2102.10705 (2021).<br>
 
 ```
-@article{guan2021differentiable,
-  title={Differentiable thermodynamic modeling},
-  author={Guan, Pin-Wen},
-  journal={arXiv preprint arXiv:2102.10705},
-  year={2021}
+@article{GUAN2022114217,
+title = {Differentiable thermodynamic modeling},
+journal = {Scripta Materialia},
+volume = {207},
+pages = {114217},
+year = {2022},
+issn = {1359-6462},
+doi = {https://doi.org/10.1016/j.scriptamat.2021.114217},
+url = {https://www.sciencedirect.com/science/article/pii/S1359646221004978},
+author = {Pin-Wen Guan},
+keywords = {Thermodynamic modeling, Differentiable programming, Machine learning},
 }
 ```
