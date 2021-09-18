@@ -21,7 +21,7 @@ After running the code, you should be able to get the results as in the "Results
 
 Please cite the reference below if you use this code in your work:<br>
 
-Guan, Pin-Wen. "Differentiable thermodynamic modeling." arXiv preprint arXiv:2102.10705 (2021).<br>
+Guan, Pin-Wen. Differentiable thermodynamic modeling. Scripta Materialia 207 (2022) 114217.<br>
 
 ```
 @article{GUAN2022114217,
